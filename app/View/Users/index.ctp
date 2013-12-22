@@ -11,7 +11,7 @@
 		<?php echo $this->Session->flash() ?>
 
     <hr>
-    <table class="table table-bordered">
+    <table class="table table-striped">
       <thead>
         <tr>
           <th>#</th>
