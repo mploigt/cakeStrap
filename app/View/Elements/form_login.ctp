@@ -1,4 +1,4 @@
-<div class="row">
+
 	<div class="col-lg-4 col-lg-offset-4">
 		<?php echo $this->Form->create('User',array(
 												'url' => array(
@@ -25,4 +25,4 @@
 
 
 	</div>
-</div>
+
